@@ -1,0 +1,8 @@
+﻿C:\workbspace\BancoXpto\src\Api\Program.cs
+C:\workbspace\BancoXpto\src\Api\obj\Debug\net8.0\Api.GlobalUsings.g.cs
+C:\workbspace\BancoXpto\src\Api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\workbspace\BancoXpto\src\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\workbspace\BancoXpto\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\workbspace\BancoXpto\src\Api\appsettings.Development.json
+C:\workbspace\BancoXpto\src\Api\appsettings.json
+C:\workbspace\BancoXpto\src\Api\Properties\launchSettings.json

@@ -1,0 +1,25 @@
+Product projects
+---------------------------------------
+C:\workbspace\BancoXpto\src\Domain\Domain.csproj
+C:\workbspace\BancoXpto\src\Api\Api.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+C:\workbspace\BancoXpto\src\Application\Application.csproj
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

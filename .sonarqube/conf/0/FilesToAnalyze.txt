@@ -1,0 +1,3 @@
+﻿C:\workbspace\BancoXpto\src\Domain\Entities\Account.cs
+C:\workbspace\BancoXpto\src\Domain\Enums\TransationType.cs
+C:\workbspace\BancoXpto\src\Domain\Resources\ResponseMessage.cs
